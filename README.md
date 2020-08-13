@@ -7,3 +7,4 @@ Link do curso [Python Pro](https://www.python.pro.br).
 
 Tópicos para estudar:
 * Virtualenv
+* Flake8
