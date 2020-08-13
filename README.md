@@ -3,4 +3,4 @@
 
 Informações para contribuição em projetos de código aberto.
 
-Link do curso [Python Pro](https://www.python.pro.br)
+Link do curso [Python Pro](https://www.python.pro.br).
