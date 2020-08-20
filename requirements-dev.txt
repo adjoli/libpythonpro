@@ -4,7 +4,7 @@ pycodestyle==2.6.0
 pyflakes==2.2.0
 
 # Libs do PyTest
-attrs==19.3.0
+attrs==20.1.0
 iniconfig==1.0.1
 more==0.0.1b14
 packaging==20.4
