@@ -8,6 +8,9 @@ Link para o curso [Python Pro](https://www.python.pro.br).
 [![Build Status](https://travis-ci.com/AJOliveiraRN/libpythonpro.svg?branch=master)](https://travis-ci.com/AJOliveiraRN/libpythonpro)
 [![Updates](https://pyup.io/repos/github/AJOliveiraRN/libpythonpro/shield.svg)](https://pyup.io/repos/github/AJOliveiraRN/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/AJOliveiraRN/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/AJOliveiraRN/libpythonpro/)
+[![codecov](https://codecov.io/gh/AJOliveiraRN/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/AJOliveiraRN/libpythonpro)
+
+
 
 Suportada versão 3 de Python
 
