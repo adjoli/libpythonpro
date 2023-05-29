@@ -16,7 +16,7 @@ six==1.15.0
 toml==0.10.1
 
 # Coverage
-coverage==5.2.1
+coverage==7.2.7
 pytest-cov==2.10.1
 
 -r requirements.txt
